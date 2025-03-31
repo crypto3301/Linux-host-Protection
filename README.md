@@ -198,16 +198,7 @@ sudo systemctl restart apparmor
 
 ---
 
-# Проверка работы
-
-### Тест записи
-```bash
-# Должно работать:
-touch ~/Downloads/test.txt
-
-# Должно быть запрещено:
-touch ~/Documents/test.txt
-```
+# Проверка работы: Зайдите в firefox и попоробуйте скачать картинку в Documents - статус загрузки Failed.
 
 ### Проверка логов
 ```bash
