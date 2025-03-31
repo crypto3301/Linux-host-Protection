@@ -1,3 +1,4 @@
+# Задание взято https://github.com/AmaHacka/secure-linux?tab=readme-ov-file
 # Настройка окружения и интеграция Fail2Ban с Telegram
 
 ## Установка необходимых пакетов
